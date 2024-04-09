@@ -1,11 +1,4 @@
-//
-//  main.cpp
-//  snake
-//  A classic SNAKE game written in C++ for macOS using NCURSES
-//
-//  Created by Izloop on 5/23/19.
-//  Copyright © 2019 Peter Levi Hornig. All rights reserved.
-//
+
 
 #include <cstdlib>
 #include <ncurses.h>
